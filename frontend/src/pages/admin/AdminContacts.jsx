@@ -83,9 +83,6 @@ export default function AdminContacts() {
               </div>
             </div>
             <div className="modal-footer">
-              <a href={`mailto:${selected.email}?subject=Re: ${selected.subject}`} className="btn btn-primary">
-                Responder por correo
-              </a>
             </div>
           </div>
         </div>
