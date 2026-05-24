@@ -337,14 +337,3 @@ Amazon S3 (frontend estático) ────┐
 |--------|----------|------|-------------|
 | GET | `/api/health` | Público | Verificar que la API responde |
 
----
-
-## Capturas de pantalla
-
-_(Agrega aquí capturas de tu aplicación corriendo si quieres)_
-
----
-
-## Licencia
-
-Proyecto académico desarrollado únicamente con fines educativos para la Universidad Rafael Landívar.
