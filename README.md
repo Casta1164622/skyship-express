@@ -1,7 +1,10 @@
 # SkyShip Express
 
 🌐 **Aplicación desplegada**: http://skyship-express-frontend-tucasta.s3-website-us-east-1.amazonaws.com
-🔌 **API en producción**: http://98.93.86.45:4000/api
+🔌 **API en producción**: http://100.53.180.55:4000/api/
+
+
+
 
 ---
 
